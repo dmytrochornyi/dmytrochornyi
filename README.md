@@ -30,7 +30,7 @@ Computer Science graduate, currently doing an M.Sc. in AI. I build things end to
 
 - M.Sc. in Artificial Intelligence (in progress)
 - Looking for my first developer role
-- Based in łodź, Poland
+- Based in Łódź, Poland
 
 ---
 
